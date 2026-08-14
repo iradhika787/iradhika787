@@ -139,7 +139,7 @@ AI-powered healthcare assistant supporting symptom analysis and intelligent medi
 </a>
 
 </div>
----
+
 
 <div align="center">
 
