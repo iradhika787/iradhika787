@@ -111,6 +111,11 @@ Large Language Models.
 `Python` • `Flask` • `NLP`
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iradhika787/iradhika787/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
 
 # 📈 GitHub Contribution Activity
 
@@ -176,10 +181,6 @@ Large Language Models.
 
 </div>
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iradhika787/iradhika787/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
